@@ -1,0 +1,5 @@
+# Webshell POST爆破工具依赖库
+# 核心HTTP请求库
+requests>=2.31.0
+# requests底层的HTTP客户端库（避免版本冲突）
+urllib3>=2.0.7
