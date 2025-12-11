@@ -146,5 +146,3 @@ Password dictionary path (default: ./pass.txt):
 ## Disclaimer
 
 This tool is for security research and authorized testing only. Users must comply with relevant laws and regulations such as the *Cybersecurity Law*. All legal liabilities arising from improper use of the tool shall be borne solely by the user.
-
-> （注：文档部分内容可能由 AI 生成）
